@@ -11,11 +11,15 @@ Some initial wrangling was performed to remove null values. A distance from star
 
 The exploration found the Trip duration and distance from start to end station to be unimodal with a roughly normal distribution after transforming the data to a logarithmic scale. 
 
-More trips were found to occur during the week compared with the weekend. The most frequent trips occured at the peak times for commuting to and from work idicating one of the primary use case of the service.
+More trips were found to occur during the week compared with the weekend. The most frequent trips occured at the peak times for commuting to and from work indicating one of the primary use case of the service.
 
-It was found that there was a linear trend in the minimum time to travel a certain distance from start to end station the correlation was fairly weak howe
+It was found that there was a linear trend in the minimum time to travel a certain distance from start to end station the correlation was fairly weak however.
 
-> Summarize all of your findings from your exploration here, whether you plan on bringing them into your explanatory presentation or not.
+Looking at categoric variables it was found that female and other gender users took longer trips than males and customers took longer trips than subscribers.
+
+Trips took longer on the weekends but tended to be between closer stations. This is likely due to leisure trips happening on weekends and work trips on weekdays.
+
+The main topics of interest for the presentation are the weekly and hourly use trends, as well differences over the week for trip duration and distance from start to end station.
 
 
 ## Key Insights for Presentation
