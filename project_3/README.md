@@ -23,5 +23,11 @@ The main topics of interest for the presentation are the weekly and hourly use t
 
 
 ## Key Insights for Presentation
+ 
+The first key insight for the presentation is the distribution of trips during the days and weeks. The plot of trip count per day of week and per hour of day will be used at first followed by the heatmap of both variables to give further insight.
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
+The second insight will be based on the average trip duration and distance between start and end station comparing the customer and subscriber user types. The trip count of each user type will show who uses the service more. A violin plot of the trip duration and distance will then show how the trips vary for these user groups.
+Finally weekly trends in the average duration and distance will be used to show how this varies during the week for the two user types.
+
+
+
